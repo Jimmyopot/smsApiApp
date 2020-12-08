@@ -1,0 +1,9 @@
+{
+  "name": "Vitor",
+  "location": "Finland",
+  "is_active": true,
+  "count": 28,
+  "my_name": "package_name",
+  "desc": "package_desc",
+  "mask": "mutant"
+}
