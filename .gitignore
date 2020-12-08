@@ -6,3 +6,5 @@ credit/__pycache__
 
 media/
 *.myfile.html
+
+/media/
